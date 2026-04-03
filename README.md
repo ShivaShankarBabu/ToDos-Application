@@ -59,6 +59,8 @@ A simple and responsive Todo Application built using HTML, CSS, JavaScript, and 
 ``` id="49z4af"
 git clone https://github.com/ShivaShankarBabu/ToDos-Application.git
 
+---
+
 ## 🚀 Live Demo
 
 Frontend: https://nssbtodos.ccbp.tech/
