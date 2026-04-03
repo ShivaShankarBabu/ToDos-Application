@@ -33,10 +33,13 @@ A simple and responsive Todo Application built using HTML, CSS, JavaScript, and 
 
 ## 📂 Project Structure
 
-/project-folder
+/project-folder  
+
 ├── index.html
-├── style.css
-├── script.js
+
+├── index.css
+
+├── index.js
 
 
 ---
